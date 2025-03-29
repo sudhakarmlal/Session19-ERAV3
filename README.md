@@ -1,4 +1,4 @@
-# grid_world_reinforcement_learning
+# reinforcement_learning grid world
 Value based reinforcement learning on gird world
 
 ## Problem Statement
